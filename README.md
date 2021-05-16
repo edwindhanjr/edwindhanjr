@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on freelancing as well as new startup ideas
 - 📫 You can reach me through dhan.gharti.9@gmail.com
-- https://edwindhanjr.github.io/tindog/
-- https://edwindhanjr.github.io/host-pro-website/
+- Tindog Website : https://edwindhanjr.github.io/tindog/
+- HostPro Website : https://edwindhanjr.github.io/host-pro-website/
 
 <!---
 edwindhanjr/edwindhanjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
