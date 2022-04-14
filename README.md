@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python || Data Engineering
 - 💞️ I’m looking to collaborate on freelancing as well as new startup ideas
 - 📫 You can reach me through dhan.gharti.9@gmail.com
-- Tindog Website : https://edwindhanjr.github.io/tindog/
 - HostPro Website : https://cranky-tesla-78b2d6.netlify.app/
 - ClothingStore Website : https://cs-live.herokuapp.com/
 
